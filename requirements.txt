@@ -1,0 +1,15 @@
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+prophet==1.1.5
+shap==0.43.0
+holidays==0.38
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+pyarrow==14.0.1
+streamlit==1.30.0
+matplotlib==3.8.2
+seaborn==0.13.1
+scipy==1.11.3
+pytz==2023.3.post1
